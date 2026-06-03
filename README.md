@@ -1,10 +1,11 @@
 # AI-Development-Environment-Setup
 This repository documents the setup process for an AI-assisted development environment using Cursor IDE, Claude Code, Codex, and GitHub.
+
 **Tools Installed**
 
-Cursor IDE
-Claude Code Extension
-Codex Extension
+Cursor IDE,
+Claude Code Extension,
+Codex Extension,
 GitHub
 
 **Steps Completed**
